@@ -1,3 +1,4 @@
+GOOGLE CLONE THIS PROJECT IS NOT FULLY FINISHED. I WILL COME BACK AND FINISH IT.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
